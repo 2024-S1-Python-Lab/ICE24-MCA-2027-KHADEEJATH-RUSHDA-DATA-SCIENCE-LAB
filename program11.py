@@ -32,7 +32,7 @@ print(df.isnull().sum())
 print(df.describe())
 print(df['target'].value_counts())
 
-b)Visualization
+# b)Visualization
 
 #(1) Scatter plot
 plt.figure(figsize=(8,6))
