@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Ss44eA1wKojrJbgICq0JKE5o_Y6ILzd1
 """
 
-a)exploratory dat analysis
+# a)exploratory data analysis
 
 import pandas as pd
 import numpy as np
